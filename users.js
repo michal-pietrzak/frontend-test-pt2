@@ -35,13 +35,4 @@ module.exports = {
       countryCode: 'UK'
     }
   },
-  4: {
-    firstName: '',
-    lastName: 'Korzen',
-    company: {
-      name: 'Whateva',
-      address: 'Somewhere over the rainbow',
-      countryCode: 'PL'
-    }
-  }
 }
