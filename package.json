@@ -1,0 +1,8 @@
+{
+  "name": "part-2",
+  "version": "1.0.0",
+  "description": "Frontend test - part 2",
+  "main": "index.js",
+  "author": "Michal Pietrzak <michal.pietrzak@gmail.com>",
+  "license": "MIT"
+}
